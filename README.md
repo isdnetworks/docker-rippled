@@ -8,7 +8,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`0.21.0`](https://github.com/isdnetworks/docker-rippled/blob/master/Dockerfile)
+-	[`1.6.0`](https://github.com/isdnetworks/docker-rippled/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
